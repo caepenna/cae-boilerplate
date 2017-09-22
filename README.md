@@ -1,5 +1,7 @@
-# boilerplate
-Harp/Sass/Jade Boilerplate
+# cae-boilerplate
+> harp/sass/jade boilerplate
+
+made for [Cae Penna](https://github.com/caepenna/)'s workflow
 
 | Command     | yarn              | npm              |
 | ----------- | ----------------- | ---------------- |
